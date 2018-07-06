@@ -33,10 +33,11 @@ In this case Your tokens will not be lost! - Just write to me in telegram https:
 
 ***
 
-## 🖖 Contact & Support
-t.me/chain_cf chat 
-t.me/cryptoporn chat 
-t.me/vikxx pm 
-github.com/vikxx 
-steemit.com/@vikx 
-golos.io/@vik 
+# 🖖 Contact & Support
+
+* https://t.me/chain_cf chat 
+* https://t.me/cryptoporn chat 
+* https://t.me/vikxx pm 
+* https://github.com/vikxx 
+* https://steemit.com/@vikx 
+* https://golos.io/@vik 
