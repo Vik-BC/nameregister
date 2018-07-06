@@ -67,7 +67,7 @@ if (
             "receiver": USERNAME,
             "stake_net_quantity": "1.0000 EOS",
             "stake_cpu_quantity": "1.0000 EOS",
-            "transfer": 1
+            "transfer": 1 // It belongs to you!
         }
     }
 ])
