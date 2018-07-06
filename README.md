@@ -30,3 +30,11 @@ You can check the `nameregister` account activity immediately after sending the 
 
 **For sure, there may be typos from users, for example you send the wrong name and bot can't create an account automatically.
 In this case Your tokens will not be lost! - Just write to me in telegram https://t.me/vikxx and I'll create a new account for you manually.**
+
+## 🖖 Contact & Support
+https://t.me/chain_cf chat 
+https://t.me/cryptoporn chat 
+https://t.me/vikxx pm 
+github.com/vikxx 
+steemit.com/@vikx 
+golos.io/@vik 
