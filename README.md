@@ -3,6 +3,11 @@
 **This service based on a simple scheme - you send 4 EOS from exchange, in memo specify the `name:public-key`. BOT nameregister creates an account with your name and key and you can use new account!
 You must generate the key pair separately and don't transfer the private key! Only public**
 
+As you can see in the file [/conditions.js](https://github.com/vikxx/nameregister/blob/master/conditions.js) 
+The cost of creating 4 eos. 
+Of these, you get 4096 RAM. 1 EOS staked CPU, 1 EOS staked NET. 
+Without these resources, you will not be able to use your account. So the creation is paid.
+
 To create an account you need:
 
 1) Generate new EOS key pair - Public and private key. You can use `get-scatter.com`. **Don't send anyone your private key!**
